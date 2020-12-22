@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+    <ItemGroup>
+        <Compile Include="..\Solution Items\SolutionInfo.cs">
+            <Link>Properties\SolutionInfo.cs</Link>
+        </Compile>
+        <Compile Include="..\Solution Items\VersionInfo.cs">
+            <Link>Properties\VersionInfo.cs</Link>
+        </Compile>
+        <AdditionalFiles Include="$(MSBuildThisFileDirectory)stylecop.json" />
+    </ItemGroup>
+
+</Project>
