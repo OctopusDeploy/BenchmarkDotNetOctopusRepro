@@ -7,7 +7,6 @@
         <Compile Include="..\Solution Items\VersionInfo.cs">
             <Link>Properties\VersionInfo.cs</Link>
         </Compile>
-        <AdditionalFiles Include="$(MSBuildThisFileDirectory)stylecop.json" />
     </ItemGroup>
 
 </Project>
